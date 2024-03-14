@@ -6,17 +6,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>로스트아크 일정관리 시스템</title>
-        <!-- Favicon-->
+        <title>LostWorker-로스트아크 일정관리 시스템</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/main/main.css" rel="stylesheet" />
+
+        <!-- 구글 한글폰트 -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Poor+Story&family=Single+Day&display=swap" rel="stylesheet">
+
     </head>
     <body>
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container px-5">
-                <a class="navbar-brand" href="#!">Start Bootstrap</a>
+                <a class="navbar-brand" href="#!">Lost Worker</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -28,15 +32,16 @@
                 </div>
             </div>
         </nav>
-        <!-- Page Content-->
+
+        <!-- 페이지 시작 -->
         <div class="container px-4 px-lg-5">
             <!-- Heading Row-->
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="https://dummyimage.com/900x400/dee2e6/6c757d.jpg" alt="..." /></div>
                 <div class="col-lg-5">
-                    <h1 class="font-weight-light">Business Name or Tagline</h1>
-                    <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
-                    <a class="btn btn-primary" href="#!">Call to Action!</a>
+                    <h1 class="font-weight-light black-han sans-regular" style="font-weight: bold">공격대 일정관리</h1>
+                    <p class="poor-story-regular">로그인하여 대표 캐릭터를 등록하고 한주의 로아 일정을 관리하세요. <br/> 깐부 시스템을 이용하여 등록된 사용자들끼리 깐부를 맺어 깐부와의 일정을 <br/> 조율하세요.</p>
+                    <a class="btn btn-primary single-day-regular" href="#!">일정관리 시작하기!</a>
                 </div>
             </div>
             <!-- Call to Action-->

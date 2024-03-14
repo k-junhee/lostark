@@ -248,3 +248,114 @@ org.thymeleaf.exceptions.TemplateInputException: Error resolving template [/layo
 2024-03-14 11:02:26  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
 2024-03-14 11:02:26  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
 2024-03-14 11:02:27  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [726] milliseconds.
+2024-03-14 13:27:45  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11.0.14 on DESKTOP-9JCA5UN with PID 12332 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by User in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 13:27:45  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 13:27:45  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\User\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 13:27:45  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 13:27:45  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 13:27:46  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 13:27:48  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 13:27:48  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:27:48  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 13:27:48  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 13:27:48  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 13:27:48  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 13:27:48  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 2527 ms
+2024-03-14 13:27:48  INFO [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2024-03-14 13:27:49  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 13:27:49  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:27:49  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 13:27:49  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 3.71 seconds (JVM running for 4.924)
+2024-03-14 13:28:17  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 13:28:17  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 13:28:17  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+2024-03-14 13:28:19  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [684] milliseconds.
+2024-03-14 13:30:25  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11.0.14 on DESKTOP-9JCA5UN with PID 14000 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by User in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 13:30:25  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 13:30:25  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\User\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 13:30:25  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 13:30:25  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 13:30:26  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 13:30:28  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 13:30:28  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:30:28  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 13:30:28  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 13:30:28  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 13:30:28  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 13:30:28  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 2552 ms
+2024-03-14 13:30:28  INFO [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2024-03-14 13:30:29  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 13:30:29  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:30:29  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 13:30:29  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 3.938 seconds (JVM running for 5.166)
+2024-03-14 13:34:24  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 13:34:24  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 13:34:24  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+2024-03-14 13:34:26  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [759] milliseconds.
+2024-03-14 13:35:31  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11.0.14 on DESKTOP-9JCA5UN with PID 16016 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by User in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 13:35:31  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 13:35:31  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\User\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 13:35:31  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 13:35:31  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 13:35:32  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 13:35:33  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 13:35:33  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:35:33  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 13:35:33  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 13:35:33  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 13:35:33  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 13:35:33  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 2694 ms
+2024-03-14 13:35:34  INFO [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2024-03-14 13:35:34  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 13:35:34  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:35:34  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 13:35:34  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 3.812 seconds (JVM running for 4.831)
+2024-03-14 13:35:42  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 13:35:42  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 13:35:42  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 5 ms
+2024-03-14 13:35:44  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [773] milliseconds.
+2024-03-14 13:41:33  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11.0.14 on DESKTOP-9JCA5UN with PID 2484 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by User in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 13:41:33  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 13:41:33  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\User\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 13:41:33  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 13:41:33  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 13:41:34  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 13:41:35  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 13:41:35  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:41:35  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 13:41:35  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 13:41:36  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 13:41:36  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 13:41:36  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 2631 ms
+2024-03-14 13:41:36  INFO [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2024-03-14 13:41:36  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 13:41:36  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:41:36  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 13:41:36  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 3.952 seconds (JVM running for 5.074)
+2024-03-14 13:43:58  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 13:43:58  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 13:43:58  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+2024-03-14 13:43:59  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [563] milliseconds.
+2024-03-14 13:43:59  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [788] milliseconds.
+2024-03-14 13:44:05  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11.0.14 on DESKTOP-9JCA5UN with PID 21032 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by User in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 13:44:05  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 13:44:06  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\User\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 13:44:06  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 13:44:06  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 13:44:07  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 13:44:08  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 13:44:08  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:44:08  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 13:44:08  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 13:44:08  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 13:44:08  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 13:44:08  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 2744 ms
+2024-03-14 13:44:09  INFO [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2024-03-14 13:44:09  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 13:44:09  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 13:44:09  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 13:44:09  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 4.211 seconds (JVM running for 5.312)
+2024-03-14 13:44:53  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 13:44:53  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 13:44:53  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+2024-03-14 13:44:55  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [728] milliseconds.
