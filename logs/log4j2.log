@@ -1,0 +1,250 @@
+2024-03-14 00:11:46  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11 on DESKTOP-LNDS8J6 with PID 13372 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by ±Ë¡ÿ»Ò in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 00:11:46  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 00:11:46  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\±Ë¡ÿ»Ò\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/±Ë¡ÿ»Ò/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 00:11:46  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 00:11:46  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 00:11:47  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 00:11:47  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 00:11:47  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:11:47  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 00:11:47  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 00:11:47  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 00:11:47  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1016 ms
+2024-03-14 00:11:48  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 00:11:48  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:11:48  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 00:11:48  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 1.723 seconds (JVM running for 2.335)
+2024-03-14 00:13:04  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11 on DESKTOP-LNDS8J6 with PID 16004 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by ±Ë¡ÿ»Ò in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 00:13:04  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 00:13:04  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\±Ë¡ÿ»Ò\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/±Ë¡ÿ»Ò/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 00:13:04  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 00:13:04  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 00:13:05  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 00:13:05  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 00:13:05  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:13:05  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 00:13:05  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 00:13:05  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 00:13:05  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 899 ms
+2024-03-14 00:13:06  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 00:13:06  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:13:06  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 00:13:06  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 1.536 seconds (JVM running for 2.106)
+2024-03-14 00:13:32  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 00:13:32  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 00:13:32  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+2024-03-14 00:23:59 ERROR [org.thymeleaf.TemplateEngine] [THYMELEAF][http-nio-8724-exec-5] Exception processing template "/main/main": An error happened during template parsing (template: "URL [file:src/main/resources/templates//main/main.html]")
+org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: "URL [file:src/main/resources/templates//main/main.html]")
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:241) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parseStandalone(AbstractMarkupTemplateParser.java:100) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:666) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:366) ~[thymeleaf-spring5-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:190) ~[thymeleaf-spring5-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1401) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1145) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1084) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.63.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.63.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+Caused by: org.attoparser.ParseException: Error resolving template [/layout/login], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "/main/main" - line 54, col 27)
+	at org.attoparser.MarkupParser.parseDocument(MarkupParser.java:393) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupParser.parse(MarkupParser.java:257) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:230) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	... 48 more
+Caused by: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [/layout/login], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "/main/main" - line 54, col 27)
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseStandalone(TemplateManager.java:250) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.expression.FragmentExpression.resolveExecutedFragmentExpression(FragmentExpression.java:588) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.computeFragment(AbstractStandardFragmentInsertionTagProcessor.java:399) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.doProcess(AbstractStandardFragmentInsertionTagProcessor.java:110) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.TemplateHandlerAdapterMarkupHandler.handleOpenElementEnd(TemplateHandlerAdapterMarkupHandler.java:304) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.templateparser.markup.InlinedOutputExpressionMarkupHandler$InlineMarkupAdapterPreProcessorHandler.handleOpenElementEnd(InlinedOutputExpressionMarkupHandler.java:278) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.inline.OutputExpressionInlinePreProcessorHandler.handleOpenElementEnd(OutputExpressionInlinePreProcessorHandler.java:186) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.templateparser.markup.InlinedOutputExpressionMarkupHandler.handleOpenElementEnd(InlinedOutputExpressionMarkupHandler.java:124) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.attoparser.HtmlElement.handleOpenElementEnd(HtmlElement.java:109) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.HtmlMarkupHandler.handleOpenElementEnd(HtmlMarkupHandler.java:297) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupEventProcessorHandler.handleOpenElementEnd(MarkupEventProcessorHandler.java:402) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.ParsingElementMarkupUtil.parseOpenElement(ParsingElementMarkupUtil.java:159) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupParser.parseBuffer(MarkupParser.java:710) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupParser.parseDocument(MarkupParser.java:301) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupParser.parse(MarkupParser.java:257) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:230) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	... 48 more
+2024-03-14 00:23:59 ERROR [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: "URL [file:src/main/resources/templates//main/main.html]")] with root cause
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [/layout/login], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "/main/main" - line 54, col 27)
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseStandalone(TemplateManager.java:250) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.expression.FragmentExpression.resolveExecutedFragmentExpression(FragmentExpression.java:588) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.computeFragment(AbstractStandardFragmentInsertionTagProcessor.java:399) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.doProcess(AbstractStandardFragmentInsertionTagProcessor.java:110) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.TemplateHandlerAdapterMarkupHandler.handleOpenElementEnd(TemplateHandlerAdapterMarkupHandler.java:304) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.templateparser.markup.InlinedOutputExpressionMarkupHandler$InlineMarkupAdapterPreProcessorHandler.handleOpenElementEnd(InlinedOutputExpressionMarkupHandler.java:278) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.standard.inline.OutputExpressionInlinePreProcessorHandler.handleOpenElementEnd(OutputExpressionInlinePreProcessorHandler.java:186) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.templateparser.markup.InlinedOutputExpressionMarkupHandler.handleOpenElementEnd(InlinedOutputExpressionMarkupHandler.java:124) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.attoparser.HtmlElement.handleOpenElementEnd(HtmlElement.java:109) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.HtmlMarkupHandler.handleOpenElementEnd(HtmlMarkupHandler.java:297) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupEventProcessorHandler.handleOpenElementEnd(MarkupEventProcessorHandler.java:402) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.ParsingElementMarkupUtil.parseOpenElement(ParsingElementMarkupUtil.java:159) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupParser.parseBuffer(MarkupParser.java:710) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupParser.parseDocument(MarkupParser.java:301) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.attoparser.MarkupParser.parse(MarkupParser.java:257) ~[attoparser-2.0.5.RELEASE.jar:2.0.5.RELEASE]
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:230) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parseStandalone(AbstractMarkupTemplateParser.java:100) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:666) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:366) ~[thymeleaf-spring5-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:190) ~[thymeleaf-spring5-3.0.15.RELEASE.jar:3.0.15.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1401) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1145) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1084) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.63.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.20.jar:5.3.20]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.63.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.20.jar:5.3.20]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.63.jar:9.0.63]
+	at java.lang.Thread.run(Thread.java:834) ~[?:?]
+2024-03-14 00:49:56  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11 on DESKTOP-LNDS8J6 with PID 12884 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by ±Ë¡ÿ»Ò in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 00:49:56  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 00:49:56  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\±Ë¡ÿ»Ò\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/±Ë¡ÿ»Ò/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 00:49:56  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 00:49:56  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 00:49:56  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 00:49:57  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 00:49:57  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:49:57  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 00:49:57  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 00:49:57  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 00:49:57  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 00:49:57  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1011 ms
+2024-03-14 00:49:57  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 00:49:57  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:49:57  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 00:49:57  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 1.628 seconds (JVM running for 2.191)
+2024-03-14 00:50:07  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 00:50:07  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 00:50:07  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+2024-03-14 00:50:08  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [150] milliseconds.
+2024-03-14 00:59:27  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11 on DESKTOP-LNDS8J6 with PID 14800 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by ±Ë¡ÿ»Ò in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 00:59:27  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 00:59:27  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\±Ë¡ÿ»Ò\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/±Ë¡ÿ»Ò/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 00:59:27  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 00:59:27  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 00:59:28  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 00:59:28  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 00:59:29  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:59:29  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 00:59:29  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 00:59:29  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 00:59:29  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 00:59:29  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1398 ms
+2024-03-14 00:59:29  INFO [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2024-03-14 00:59:29  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 00:59:29  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 00:59:29  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 00:59:29  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 2.015 seconds (JVM running for 2.595)
+2024-03-14 00:59:33  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 00:59:33  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 00:59:33  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+2024-03-14 00:59:34  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [146] milliseconds.
+2024-03-14 10:55:48  INFO [com.lostsupport.lostark.LostarkApplication] Starting LostarkApplication using Java 11.0.14 on DESKTOP-9JCA5UN with PID 21488 (D:\programing\SpringBoot\spring_workspace\lostark\build\classes\java\main started by User in D:\programing\SpringBoot\spring_workspace\lostark)
+2024-03-14 10:55:48  INFO [com.lostsupport.lostark.LostarkApplication] No active profile set, falling back to 1 default profile: "default"
+2024-03-14 10:55:49  INFO [org.springframework.boot.devtools.restart.ChangeableUrls] The Class-Path manifest attribute in C:\Users\User\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc11\21.5.0.0\3e588fed4618a39c7d655bfc1159ecb57fabc217\ojdbc11-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc11/21.5.0.0/3e588fed4618a39c7d655bfc1159ecb57fabc217/oraclepki.jar
+2024-03-14 10:55:49  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-14 10:55:49  INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-14 10:55:49  WARN [org.mybatis.spring.mapper.ClassPathMapperScanner] No MyBatis mapper was found in '[com.lostsupport.lostark]' package. Please check your configuration.
+2024-03-14 10:55:51  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8724 (http)
+2024-03-14 10:55:51  INFO [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8724"]
+2024-03-14 10:55:51  INFO [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2024-03-14 10:55:51  INFO [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2024-03-14 10:55:52  INFO [org.apache.jasper.servlet.TldScanner] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2024-03-14 10:55:52  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2024-03-14 10:55:52  INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 3494 ms
+2024-03-14 10:55:52  INFO [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2024-03-14 10:55:53  INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2024-03-14 10:55:53  INFO [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8724"]
+2024-03-14 10:55:53  INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8724 (http) with context path ''
+2024-03-14 10:55:53  INFO [com.lostsupport.lostark.LostarkApplication] Started LostarkApplication in 4.88 seconds (JVM running for 6.069)
+2024-03-14 11:02:26  INFO [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-14 11:02:26  INFO [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2024-03-14 11:02:26  INFO [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+2024-03-14 11:02:27  WARN [org.apache.catalina.util.SessionIdGeneratorBase] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [726] milliseconds.
